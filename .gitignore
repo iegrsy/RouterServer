@@ -1,0 +1,5 @@
+.vscode/*
+bin/*
+obj/*
+Nvr.cs
+NvrGrpc.cs
